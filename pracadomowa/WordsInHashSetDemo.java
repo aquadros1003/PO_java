@@ -1,4 +1,4 @@
-// Na podstawie książki Cay Horstmann, Gary Cornell.
+package po1.pracadomowa;// Na podstawie książki Cay Horstmann, Gary Cornell.
 // "Java (TM). Podstawy." Wydanie VIII
 
 // Program wykorzystujący zbiór typu HashSet
