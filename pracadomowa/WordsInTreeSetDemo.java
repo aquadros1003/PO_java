@@ -15,7 +15,7 @@ public class WordsInTreeSetDemo
         Set<String> words = new TreeSet<>();
         long totalTime = 0;
 
-        File f = new File("src/alice30.txt");
+        File f = new File("pracadomowa/alice30.txt");
         Scanner scanner = new Scanner(f);
         while (scanner.hasNext()) {
             String word = scanner.next();

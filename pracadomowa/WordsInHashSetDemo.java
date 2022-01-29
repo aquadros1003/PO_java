@@ -15,7 +15,7 @@ public class WordsInHashSetDemo
         Set<String> words = new HashSet<>();
         long totalTime = 0;
 
-        File f = new File("src/alice30.txt");
+        File f = new File("pracadomowa/alice30.txt");
         Scanner scanner = new Scanner(f);
         while (scanner.hasNext()) {
             String word = scanner.next();
